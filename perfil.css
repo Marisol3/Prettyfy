@@ -1,0 +1,72 @@
+*{outline: 1px solid rgba(255,0,0,0.1);}*
+.container {
+	width: 960px;
+	padding-left: 8px; 
+	padding-right: 8px;
+}
+
+#menu{
+	text-align: center;
+
+}
+
+#menu li {
+list-style-type: none;
+display: inline-block;
+
+
+
+}
+#menu li a{
+text-decoration: none;
+font-family: Arial;
+font-size: 20px;
+color: black;
+margin-right: 20px;
+}
+#mar {
+	width: 960px;
+	position: relative;
+}
+#gatos{
+	width: 250px;
+	border-radius: 120px;
+	margin-left: 35px;
+}
+#redes{
+	position: relative;
+	left: 250px;
+}
+.nube{
+
+	background-image: url("images/tile2.png")
+
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+.hobbies{
+	overflow: scroll; 
+	width: 978px;
+	height: 290px;
+	padding: 30px;
+}
+.pesca{
+	background-image: url("images/tile1.png")
+}
+.logo{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 400px;
+
+}
+.name{
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 200px;
+	background-color: pink;
+	font-size: 30px;
+}
